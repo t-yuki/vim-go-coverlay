@@ -1,3 +1,5 @@
+# DEPRECATED: use latest vim-go that merged this plugin.
+
 # vim-go-coverlay
 Go (golang) code coverage overlays support for Vim.
 
@@ -36,4 +38,3 @@ au BufWritePost *.go call go#coverlay#Coverlay() "run test and cover on file sav
 * Thanks for contributors
  * https://github.com/t-yuki/vim-go-coverlay
  * https://github.com/anupcshan/vim-go-coverlay
-
